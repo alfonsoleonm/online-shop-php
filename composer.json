@@ -1,0 +1,20 @@
+{
+    "name": "alfonsoleonproj/online-shop",
+    "description": "Online shop to sell products",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alfonso León Macedo",
+            "email": "leonmacedo29@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Alfonsoleonproj\\":"src/"
+        }
+    }
+}
